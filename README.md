@@ -15,7 +15,7 @@
 
 He/Him
 
-I'm a developer from sunny little Darwin in Australia. I currently work for a healthcare company building integrations for our internal EMR system across many countries around the globe. Python is my favourite programming language, and it's where I feel the most at home. Type hinting is fantastic, and I am a big fan of [Mypy](https://mypy-lang.org/) and [Pydantic](https://docs.pydantic.dev/).
+I'm a developer from sunny little Darwin in Australia. I currently work for a healthcare company building integrations for our internal EMR system across many countries around the globe. Python is my favourite programming language, and it's where I feel the most at home. Type hinting is fantastic, and I am a big fan of [Mypy](https://mypy-lang.org/) and [Pydantic](https://docs.pydantic.dev/). When I'm not flexing my fingers on the keyboard I'm usually brewing or judging beer, playing volleyball or riding my bike.
 
 ## Current Projects
 
@@ -33,7 +33,7 @@ I'm currently working on a couple of different personal projects. You can check 
 
 [PELT Studio](https://github.com/schlerp/pelt-studio), it stands for Python Extract Load Transform Studio. It's what it sounds like 🤷. It has a python backend with a svelte front end. You can design SQL ELT flows with a graph/network/DAG style interface, and it will (one day) orchestrate them. Currently, it only produces queries you run manually, but there's some good potential if I can find others to build it with me 😀.
 
-### Languages & Frameowrks
+## Languages & Frameowrks
 
 #### Python 🧑‍🏫
 - FastAPI ❤️
@@ -52,5 +52,3 @@ I'm currently working on a couple of different personal projects. You can check 
 - Julia
 - R 🤷
 - Lua 🧑‍🎓
-
-When I'm not flexing my fingers on the keyboard I'm usually brewing or judging beer, playing volleyball or riding my bike.
