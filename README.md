@@ -1,8 +1,5 @@
 # Hola, I'm Patty 👋 <a href='https://github.com/schlerp/pypes'><img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=BlondeGolden&facialHairType=BeardLight&facialHairColor=Brown&clotheType=Hoodie&clotheColor=PastelOrange&eyeType=Side&eyebrowType=Default&mouthType=Default&skinColor=Light' align="left" height="240"/></a>
 
-<a href="https://github.com/schlerp/">
-  <img src="https://shields.io/github/stars/schlerp?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" />
-</a>
 <a href="https://www.linkedin.com/in/patrick-coffey-46985a82/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -11,6 +8,9 @@
 </a>
 <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/3462D9BEE84D362EDF047884358F08BBBA657953">
   <img src="https://img.shields.io/badge/PGP Public Key-pink?style=for-the-badge&logoColor=white" alt="PGP Public Key Badge"/>
+</a>
+<a href="https://github.com/schlerp/">
+  <img src="https://shields.io/github/stars/schlerp?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" />
 </a>
 
 He/Him
