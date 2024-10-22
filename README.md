@@ -15,7 +15,7 @@
 
 He/Him
 
-I'm a developer from sunny little Darwin in Australia. I currently work for a healthcare company building integrations for our internal EMR system across many countries around the globe. Python is my favourite programming language, and it's where I feel the most at home. Type hinting is fantastic, and I am a big fan of [Mypy](https://mypy-lang.org/) and [Pydantic](https://docs.pydantic.dev/). When I'm not flexing my fingers on the keyboard I'm usually brewing or judging beer, playing volleyball or riding my bike.
+I'm a developer from sunny little Darwin in Australia. I currently work on the fraud and credit reporting team at Kraken Tech (Octopus Energy), we are building the core global fraud framework. I used to work for a healthcare company building integrations for their internal EMR system across many countries around the globe. Python is my favourite programming language, and it's where I feel the most at home. Type hinting in python is fantastic, and I am a big fan of [Mypy](https://mypy-lang.org/) and [Pydantic](https://docs.pydantic.dev/). When I'm not flexing my fingers on the keyboard I'm usually brewing or judging beer, playing volleyball or riding my bike.
 
 ## Current Projects
 
