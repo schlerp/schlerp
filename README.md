@@ -15,11 +15,11 @@
 
 He/Him
 
-I'm a developer from sunny little Darwin in Australia. I currently work on the fraud and credit reporting team at Kraken Tech (Octopus Energy), we are building the core global fraud framework. I used to work for a healthcare company building integrations for their internal EMR system across many countries around the globe. Python is my favourite programming language, and it's where I feel the most at home. Type hinting in python is fantastic, and I am a big fan of [Mypy](https://mypy-lang.org/) and [Pydantic](https://docs.pydantic.dev/). When I'm not flexing my fingers on the keyboard I'm usually brewing or judging beer, playing volleyball or riding my bike.
+I’m a developer hailing from sunny Darwin, Australia. Currently, I’m part of the fraud and credit reporting team at Kraken Tech (Octopus Energy), where we’re building the core global fraud framework. Previously, I worked for a healthcare company, developing integrations for their internal EMR system across various countries. Python is my favorite programming language; it’s where I truly feel at home. I particularly appreciate type hinting in Python and am a big fan of Mypy and Pydantic. When I’m not typing away at my keyboard, you can find me brewing or judging beer, playing volleyball, or riding my bike.
 
 ## Current Projects
 
-I'm currently working on a couple of different personal projects. You can check them out below. Please get involved if you like; I'm always looking for help 😃. I love open-source software, and I'm keen to get more people involved with some of the things I'm working on at the moment.
+I'm currently working on a few personal projects that I'm excited to share with you below. I welcome any involvement—I'm always looking for help! 😃 I have a passion for open-source software and am eager to engage more people in the initiatives I’m pursuing right now.
 
 ### Pypes
 
