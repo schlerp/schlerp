@@ -1,4 +1,4 @@
-# Hola, I'm Patty 👋 <a href='https://github.com/schlerp/pypes'><img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=BlondeGolden&facialHairType=BeardLight&facialHairColor=Brown&clotheType=Hoodie&clotheColor=PastelOrange&eyeType=Side&eyebrowType=Default&mouthType=Default&skinColor=Light' align="left" height="240"/></a>
+# Hola, I'm Patty 👋 <a href='https://github.com/schlerp/pypes'><img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=BlondeGolden&facialHairType=BeardLight&facialHairColor=Brown&clotheType=Hoodie&clotheColor=PastelOrange&eyeType=Side&eyebrowType=Default&mouthType=Default&skinColor=Light' align="right" height="240"/></a>
 
 <a href="https://www.linkedin.com/in/patrick-coffey-46985a82/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,6 +16,15 @@
 He/Him
 
 I’m a developer hailing from sunny Darwin, Australia. Currently, I’m part of the fraud and credit reporting team at Kraken Tech (Octopus Energy), where we’re building the core global fraud framework. Previously, I worked for a healthcare company, developing integrations for their internal EMR system across various countries. Python is my favorite programming language; it’s where I truly feel at home. I particularly appreciate type hinting in Python and am a big fan of Mypy and Pydantic. When I’m not typing away at my keyboard, you can find me brewing or judging beer, playing volleyball, or riding my bike.
+
+<a href="https://github.com/schlerp/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=schlerp&layout=compact&theme=dracula" alt="Schlerp's GitHub stats"/>
+</a>
+<br />
+<a href="https://github.com/schlerp/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schlerp&layout=compact&theme=dracula" alt="Schlerp's Top Languages"/>
+</a>
+
 
 ## Current Projects
 
